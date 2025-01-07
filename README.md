@@ -1,6 +1,6 @@
 # Financial-Data-Competition-2025
 
-# 参考
+## 参考
 
 Rag-1 グランプリ (2024/9/12-2024/10/10) 解法
 
